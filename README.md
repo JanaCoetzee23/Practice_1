@@ -14,7 +14,9 @@ knitr::opts_chunk$set(echo =TRUE,message = FALSE ,warning = FALSE)
 ```
 
 ```{r dimcolor-plot}
-source("R/prac1.R")
+source("prac1.R")
+print(dimcolor)
 ```
+
 
 
